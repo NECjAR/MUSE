@@ -21,7 +21,7 @@ See www.necjar.com for details.
 
 <p align="center">
   <a href="https://necjar.com/echo">
-    <img src="https://necjar.com/j/materials/icons/icon-echo.jpg" alt="NECjAR" width="auto" height="auto" />
+    <img src="https://necjar.com/j/materials/icons/icon-echo.jpg" alt="Echo" width="auto" height="auto" />
   </a>
 </p>
 
@@ -33,8 +33,14 @@ _For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com
 
 ## Release History
 
-* 2011.11.11
-    * ADD: Our ambition is unlimited.
+* 2021.1.1
+    * New devlog video [Fade Away, My Love](https://youtu.be/6p_MazIWcf8)
+* 2020.2.1
+    * Victoria Garcia-Bernal leaves projects
+* 2019.12.1
+    * Victoria Garcia-Bernal joins the project as a main character
+* 2019.1.1
+    * ADD: Echo.exe
 
 ## Meta
 
@@ -62,4 +68,4 @@ See the [open issues](https://github.com/NECjAR/ECHO/issues) for a list of propo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Kadae
 [necjar]: https://necjar.com
-[wiki]: https://wiki.necjar.com/NECjAR
+[wiki]: https://wiki.necjar.com/Echo
