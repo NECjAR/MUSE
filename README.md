@@ -33,13 +33,17 @@ _For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com
 
 ## Release History
 
-* 2021.1.1
+* 2021.9
+    * Alpha version
+* 2021.4
+    * New devlog video [Recollection](https://youtu.be/n21mtEY_pY0)
+* 2021.1
     * New devlog video [Fade Away, My Love](https://youtu.be/6p_MazIWcf8)
-* 2020.2.1
+* 2020.2
     * Victoria Garcia-Bernal leaves projects
-* 2019.12.1
+* 2019.12
     * Victoria Garcia-Bernal joins the project as a main character
-* 2019.1.1
+* 2019.1
     * ADD: Echo.exe
 
 ## Meta
