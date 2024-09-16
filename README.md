@@ -14,8 +14,8 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# ECHO
-> E.C.H.O. is an action-adventure game series debut developed and published by NECjAR. Game promised to be smart, hardcore, with a lot of violence and tones of adult content. Everyone is connected.
+# MUSE
+> Muse is an action-adventure game series debut developed and published by NECjAR. Game promised to be smart, hardcore, with a lot of violence and tones of adult content. Everyone is connected.
 
 See www.necjar.com for details.
 
@@ -29,22 +29,15 @@ See www.necjar.com for details.
 
 This repository serves as a place for bug reports, feature requests, and general discussion.
 
-_For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com/Echo)._
+_For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com/Muse)._
 
 ## Release History
-
-* 2021.9
-    * Alpha version
-* 2021.4
-    * New devlog video [Recollection](https://youtu.be/n21mtEY_pY0)
-* 2021.1
-    * New devlog video [Fade Away, My Love](https://youtu.be/6p_MazIWcf8)
 * 2020.2
     * Victoria Garcia-Bernal leaves projects
 * 2019.12
     * Victoria Garcia-Bernal joins the project as a main character
 * 2019.1
-    * ADD: Echo.exe
+    * ADD: J.exe
 
 ## Meta
 
@@ -55,7 +48,7 @@ The man behind the [NECjAR](https://necjar.com).
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/NECjAR/ECHO/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/NECjAR/MUSE/issues) for a list of proposed features (and known issues).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
