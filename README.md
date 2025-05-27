@@ -14,8 +14,8 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# MUSE
-> Muse is an action-adventure game series debut developed and published by NECjAR. Game promised to be smart, hardcore, with a lot of violence and tones of adult content. Everyone is connected.
+# QINGS AND KUEENS
+> Qings and Kueens is an action-adventure game series debut developed and published by NECjAR. Game promised to be smart, hardcore, with a lot of violence and tones of adult content. Everyone is connected.
 
 See www.necjar.com for details.
 
