@@ -21,7 +21,7 @@ See www.necjar.com for details.
 
 <p align="center">
   <a href="https://necjar.com/echo">
-    <img src="https://necjar.com/j/materials/icons/icon-echo.jpg" alt="Echo" width="auto" height="auto" />
+    <img src="https://necjar.com/j/materials/icons/icon-qnk.jpg" alt="QnK" width="auto" height="auto" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ See www.necjar.com for details.
 
 This repository serves as a place for bug reports, feature requests, and general discussion.
 
-_For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com/Muse)._
+_For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com/qingsandkueens)._
 
 ## Release History
 * 2020.2
