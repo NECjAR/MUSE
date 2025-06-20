@@ -25,11 +25,11 @@ See www.necjar.com for details.
   </a>
 </p>
 
-## Contributing
+## Characters
 
-This repository serves as a place for bug reports, feature requests, and general discussion.
+Musetta (Мюзетта).
 
-_For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com/qingsandkueens)._
+_For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com/Qings_and_Kueens)._
 
 ## Release History
 * 2020.2
